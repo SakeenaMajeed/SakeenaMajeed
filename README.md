@@ -1,38 +1,65 @@
+<div align="center">
+  
+# ✨ Hi there, I'm Sakeena Majeed ✨
 
-<h1 align="center">Hi 👋, I'm Sakeena Majeed</h1>
-<h3 align="center">A passionate frontend developer</h3>
+### Frontend Developer | DevOps Enthusiast | Content Creator
 
-<img align = "right" alt = "coding" width = "400" src = "https://camo.githubusercontent.com/800e1ce79aaa78d4e4d5eb324dfb2a8bb0164a42c6a2f6e636692bcc3f9480d4/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313638313536323530383336352f6b39367a307833566a2e676966">
+<img src="https://komarev.com/ghpvc/?username=sakeenamajeed&label=Profile%20views&color=6e5494&style=for-the-badge" alt="profile views" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakeenamajeed&label=Profile%20views&color=0e75b6&style=flat" alt="sakeenamajeed" /> </p>
-
-- 🔭 I’m currently working on **portfolio**
-
-- 🌱 I’m currently learning **OpenShift**
-
-- 👯 I’m looking to collaborate on **portfolio native projects**
-
-- 🤝 I’m looking for help with **DevOps**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-8kfv.vercel.app](https://portfolio-8kfv.vercel.app)
-
-- 💬 Ask me about **DevOps**
-
-- 📫 How to reach me **sakeenamajeed24@gmail.com**
-
-- ⚡ Fun fact **I create youtube video**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/sakeena majeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sakeena majeed" height="30" width="40" /></a>
-<a href="https://instagram.com/_sakeena_majeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sakeena_majeed" height="30" width="40" /></a>
+<p>
+  <a href="https://portfolio-8kfv.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:sakeenamajeed24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/_sakeena_majeed">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://fb.com/sakeena majeed">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<img align="right" alt="coding animation" width="400" src="https://camo.githubusercontent.com/800e1ce79aaa78d4e4d5eb324dfb2a8bb0164a42c6a2f6e636692bcc3f9480d4/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313638313536323530383336352f6b39367a307833566a2e676966" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakeenamajeed&show_icons=true&locale=en&layout=compact" alt="sakeenamajeed" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakeenamajeed&show_icons=true&locale=en" alt="sakeenamajeed" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakeenamajeed&" alt="sakeenamajeed" /></p>
+```javascript
+const sakeena = {
+  currentFocus: "Building my portfolio",
+  learning: ["OpenShift", "DevOps practices"],
+  lookingToCollaborate: "Portfolio native projects",
+  seekingHelpWith: "DevOps",
+  portfolio: "https://portfolio-8kfv.vercel.app",
+  contact: "sakeenamajeed24@gmail.com",
+  funFact: "I create YouTube videos"
+};
+```
+
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakeenamajeed&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=sakeenamajeed&show_icons=true&locale=en&theme=radical" alt="github stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakeenamajeed&theme=radical" alt="github streak" />
+</div>
+
+---
+
+<div align="center">
+  <b>Let's connect and build something amazing together! 👩‍💻</b>
+</div>
