@@ -1,11 +1,11 @@
 <!-- Header Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=190&section=header&text=Hassan%20RJ&animation=fadeIn&fontColor=ffffff&fontSize=70&fontAlignY=38" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=190&section=header&text=Sakeena%20Majeed&animation=fadeIn&fontColor=ffffff&fontSize=70&fontAlignY=38" width="100%"/>
 </div>
 
 <!-- Introduction with LED Effect -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Cybersecurity+Expert;Welcome+to+my+GitHub+Profile" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Python+Expert;Welcome+to+my+GitHub+Profile" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -18,13 +18,13 @@
 <!-- About Me Section -->
 ## 🧑‍💻 About Me
 ```javascript
-const HassanRJ = {
-    fullName: "Hassan RJ",
+const SakeenaMajeed = {
+    fullName: "Sakeena Majeed",
     location: "Pakistan",
-    skills: ["Full Stack Development", "Cybersecurity", "DevOps"],
-    currentFocus: "Building secure web applications",
+    skills: ["Full Stack Development", "Python", "DevOps"],
+    currentFocus: "Building my portfolio",
     education: "Computer Science Graduate",
-    interests: ["Coding", "Security Research", "Tech Innovation"]
+    interests: ["Coding", "Creating YouTube Videos", "Tech Innovation"]
 };
 ```
 
@@ -32,12 +32,12 @@ const HassanRJ = {
 <div align="center">
   <h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/> Tech Stack <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/></h2>
   
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,java,php,aws,docker,kubernetes,linux" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,django,flask,aws,docker" />
   
   <br>
   
   <!-- Terminal Animation -->
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400" alt="Terminal Animation">
+  <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="400" alt="Female Developer Animation">
 </div>
 
 <br>
@@ -46,17 +46,17 @@ const HassanRJ = {
 <div align="center">
   <h2><img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30"/> GitHub Stats <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30"/></h2>
   
-  <!-- Matrix Animation -->
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="250" align="right">
+  <!-- Female Developer Animation -->
+  <img src="https://user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif" width="250" align="right">
   
   <!-- Stats -->
-  <a href="https://github.com/HassanRJ-3108">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HassanRJ-3108&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanRJ-3108&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/sakeenamajeed">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakeenamajeed&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakeenamajeed&layout=compact&langs_count=7&theme=radical"/>
   </a>
   
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HassanRJ-3108&theme=radical" alt="HassanRJ's Github streaks" width="420">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakeenamajeed&theme=radical" alt="Sakeena's Github streaks" width="420">
 </div>
 
 <!-- Cool Separator -->
@@ -68,34 +68,34 @@ const HassanRJ = {
 <div align="center">
   <h2><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Programmer" width="30" /> Connect With Me <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Programmer" width="30" /></h2>
   
-  <!-- Cool Developer Animation -->
-  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="300" alt="Developer Animation">
+  <!-- Female Developer Animation -->
+  <img src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif" width="300" alt="Female Developer Animation">
   
   <br><br>
   
   <!-- Social Links -->
   <div>
-    <a href="https://linkedin.com/in/hassanrj" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <a href="https://portfolio-8kfv.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
     </a>
-    <a href="https://twitter.com/hassanrj" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">  
+    <a href="https://instagram.com/_sakeena_majeed" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">  
     </a>
-    <a href="mailto:contact@hassanrj.com">
+    <a href="mailto:sakeenamajeed24@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
-    <a href="https://hassanrj.com" target="_blank">
-      <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Website">
+    <a href="https://fb.com/sakeena majeed" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
     </a>
   </div>
 </div>
 
 <!-- Footer Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer" width="100%"/>
 </div>
 
 <!-- Views Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HassanRJ-3108&color=ff0000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=sakeenamajeed&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
 </div>
